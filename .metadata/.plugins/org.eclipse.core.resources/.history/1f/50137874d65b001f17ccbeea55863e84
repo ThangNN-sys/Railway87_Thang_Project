@@ -1,0 +1,23 @@
+package com.vti;
+
+import java.sql.Connection;
+import java.sql.DriverManager;
+
+public class Program {
+	public static void main(String[] args) {
+//		String url = "jdbc:mysql://127.0.0.1:3306/testing_system";
+		String url = "jdbc:mysql://localhost:3306/testing_system";
+		String username = "root";
+		String password = "root";
+		
+		Connection myConn = DriverManager.getConnection(url, username, password);
+		if (myConn != null) {
+			System.out.println("Đã được kết nối");
+		}else {
+			System.out.println("Không kết nối được");
+		}
+			
+		}
+	}
+
+}

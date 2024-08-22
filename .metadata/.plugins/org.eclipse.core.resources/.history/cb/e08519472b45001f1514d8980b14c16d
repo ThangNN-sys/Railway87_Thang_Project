@@ -1,0 +1,9 @@
+
+public class Program_Demo_001 {
+// Hàm Main: Điểm bắt đầu để chạy chương trình
+	public static void main(String[] args) {
+// Hãy nói với máy tính in ra cho tôi: Hello VIT -gõ tắt lấy gợi ý sout
+		System.out.println("Hello VIT");
+		System.out.println("My nam Thang");
+}
+}

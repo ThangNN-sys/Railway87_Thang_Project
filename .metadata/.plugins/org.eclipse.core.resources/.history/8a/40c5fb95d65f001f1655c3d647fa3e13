@@ -1,0 +1,14 @@
+package com.vit.entity;
+
+import java.util.Date;
+
+public class User {
+	int id;
+	String userName;
+	String passWord;
+	Gender gender; 
+	Date dateofBirth;
+	// gán giá trị cho department
+	Department department;
+
+}

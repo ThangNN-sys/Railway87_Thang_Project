@@ -1,0 +1,8 @@
+package com.vit.entity;
+
+public class Department {
+
+	public int id;
+	String departmentName;
+
+}

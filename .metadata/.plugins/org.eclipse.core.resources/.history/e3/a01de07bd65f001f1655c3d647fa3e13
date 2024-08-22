@@ -1,0 +1,8 @@
+package com.vit.backend;
+
+public class Department {
+	
+	int id;
+	String departmentName;
+
+}

@@ -1,0 +1,7 @@
+package com.vit.entity;
+
+public class Position {
+	int id;
+	String positionName;
+
+}
