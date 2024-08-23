@@ -11,7 +11,7 @@ public class Ass_3_Excercise_3 {
 		Integer salary = 5000;
 		System.out.printf("%2.2f%n", (float) salary);
 
-// Q2: Khai báo 1 String "1234567", convert String đó ra int
+// Q2: Khai báo 1 String "1234567", rồi convert String đó ra int
 		System.out.println(" ");
 		System.out.println("+---Excercise 3---Question 2---+");
 		String number = "1234567";

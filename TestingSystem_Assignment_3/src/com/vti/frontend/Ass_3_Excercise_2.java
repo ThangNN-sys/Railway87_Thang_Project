@@ -7,7 +7,7 @@ import com.vti.entity.Account;
 public class Ass_3_Excercise_2 {
 	public static void main(String[] args) {
 
-// Q1: tạo 1 array Account và khởi tạo 5 phần tử theo cú pháp
+// Q1: tạo 1 array Account và khởi tạo 5 phần tử theo cú pháp sau
 		System.out.println("+---Excercise 2---Default Value---+");
 		System.out.println("+---Excercise 2---Question 1---+");
 		Account[] accArray = new Account[5];

@@ -1,7 +1,5 @@
 package com.vti.frontend;
 
-import java.security.PublicKey;
-
 public class Excercise_1 {
 	public static void main(String[] args) {
 //Q1: Tạo constructor cho department: 
@@ -10,7 +8,6 @@ public class Excercise_1 {
 //Khởi tạo 1 Object với mỗi constructor ở trên
 		System.out.println("+---Excercise 1---Question 1---Tạo constructor cho department không có parameters---+");
 
-	Public Department() {
 	}
 
 }

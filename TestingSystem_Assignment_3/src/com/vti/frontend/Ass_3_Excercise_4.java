@@ -6,7 +6,7 @@ public class Ass_3_Excercise_4 {
 	public static void main(String[] args) {
 
 		System.out.println("+---Excercise 4---String---+");
-// Excercise 4 - Question 1: Nhập 1 xâu ký tự, đếm các từ trong ký tự đó
+// Excercise 4 - Question 1: Nhập 1 chuỗi ký tự, đếm các từ trong ký tự đó
 		Scanner scanner = new Scanner(System.in);
 		System.out.println("Nhập chuỗi ký tự: ");
 		String s1 = scanner.nextLine();
