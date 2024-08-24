@@ -18,7 +18,14 @@ public class Method {
 		} while (b == 0);
 		scanner.close();
 		System.out.println("Thương của 2 số là: " + (float) a / (float) b);
+	}
 
+// Q13: String not contains digit - Kiểm tra một chuỗi có chứa chữ số hay không, nếu có in ra false ngược lại true.
+	public static boolean checkKeyNumber(char ch) {
+		if (ch >= '0' && ch <= '9') {
+			return true;
+		}
+		return false;
 	}
 
 }

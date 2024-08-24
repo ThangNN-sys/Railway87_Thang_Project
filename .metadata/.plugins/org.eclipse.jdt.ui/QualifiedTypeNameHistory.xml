@@ -1,11 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
-    <fullyQualifiedTypeName name="java.text.DateFormat"/>
-    <fullyQualifiedTypeName name="java.util.Date"/>
-    <fullyQualifiedTypeName name="java.rmi.registry.LocateRegistry"/>
-    <fullyQualifiedTypeName name="java.util.Locale"/>
-    <fullyQualifiedTypeName name="java.util.jar.Attributes.Name"/>
-    <fullyQualifiedTypeName name="java.time.LocalDateTime"/>
     <fullyQualifiedTypeName name="javax.swing.text.AbstractDocument.Content"/>
     <fullyQualifiedTypeName name="com.vti.entity.PositionName"/>
     <fullyQualifiedTypeName name="java.text.SimpleDateFormat"/>
@@ -50,14 +44,20 @@
     <fullyQualifiedTypeName name="com.vit.entity.Position"/>
     <fullyQualifiedTypeName name="com.vit.entity.User"/>
     <fullyQualifiedTypeName name="com.vit.entity.Gender"/>
-    <fullyQualifiedTypeName name="com.vti.entity.Department"/>
     <fullyQualifiedTypeName name="com.vti.entity.Account"/>
-    <fullyQualifiedTypeName name="java.security.PublicKey"/>
-    <fullyQualifiedTypeName name="com.vti.frontend.Method"/>
     <fullyQualifiedTypeName name="javax.swing.text.Position"/>
     <fullyQualifiedTypeName name="com.vti.entity.Position"/>
     <fullyQualifiedTypeName name="javax.swing.GroupLayout.Group"/>
+    <fullyQualifiedTypeName name="java.security.PublicKey"/>
+    <fullyQualifiedTypeName name="com.vti.frontend.Method"/>
     <fullyQualifiedTypeName name="java.util.Scanner"/>
     <fullyQualifiedTypeName name="java.lang.System"/>
+    <fullyQualifiedTypeName name="com.vti.frontend.Ass_3_Excercise_5.Department"/>
+    <fullyQualifiedTypeName name="java.lang.Comparable"/>
+    <fullyQualifiedTypeName name="java.util.Comparator"/>
+    <fullyQualifiedTypeName name="java.util.jar.Attributes.Name"/>
     <fullyQualifiedTypeName name="java.lang.String"/>
+    <fullyQualifiedTypeName name="java.lang.Override"/>
+    <fullyQualifiedTypeName name="java.lang.Object"/>
+    <fullyQualifiedTypeName name="com.vti.entity.Department"/>
 </qualifiedTypeNameHistroy>
