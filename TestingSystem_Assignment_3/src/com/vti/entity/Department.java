@@ -3,18 +3,19 @@ package com.vti.entity;
 import java.util.Comparator;
 
 //Tạo class Department cài đặt Interface: Comparator
+//Ex5 Q1 dùng đến
 public class Department implements Comparator<Department> {
-	int id;
-	String name;
+	public int depId;
+	public String depName;
 
 	@Override
 	public String toString() {
-		return "Department{" + "id=" + id + ", name = '" + name + '\'' + '}';
+		return "Department " + depId + " {" + "id = " + depId + ", name = " + depName + "}";
 	}
 
 	@Override // ghi đè phương thức compare của Interface Comparator
 	public int compare(Department o1, Department o2) {
-		return o1.name.compareTo(o2.name);
+		return o1.depName.compareTo(o2.depName);
 	}
 
 	@Override
@@ -23,7 +24,7 @@ public class Department implements Comparator<Department> {
 			return true;
 		}
 		Department department = (Department) o;
-		if (name.equals(department.name)) {
+		if (depName.equals(department.depName)) {
 			return true;
 		}
 		return false;
