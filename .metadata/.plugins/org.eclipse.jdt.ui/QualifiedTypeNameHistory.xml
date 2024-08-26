@@ -1,14 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
-    <fullyQualifiedTypeName name="com.vti.entity.PositionName"/>
-    <fullyQualifiedTypeName name="java.text.SimpleDateFormat"/>
-    <fullyQualifiedTypeName name="com.vti.entity.GroupAccount"/>
-    <fullyQualifiedTypeName name="com.vti.entity.TypeQuestion.TypeName"/>
-    <fullyQualifiedTypeName name="com.vti.entity.TypeQuestion.name"/>
-    <fullyQualifiedTypeName name="com.vti.entity.Position.positionName"/>
-    <fullyQualifiedTypeName name="com.vti.entity.TypeQuestion"/>
-    <fullyQualifiedTypeName name="com.vti.entity.TypeQuestion.typeName"/>
-    <fullyQualifiedTypeName name="com.vti.entity.CategoryQuestion"/>
     <fullyQualifiedTypeName name="com.vti.entity.Question"/>
     <fullyQualifiedTypeName name="com.vti.entity.Answer"/>
     <fullyQualifiedTypeName name="com.vti.entity.ExamQuestion"/>
@@ -43,13 +34,10 @@
     <fullyQualifiedTypeName name="com.vti.entity.Position"/>
     <fullyQualifiedTypeName name="javax.swing.GroupLayout.Group"/>
     <fullyQualifiedTypeName name="com.vti.frontend.Method"/>
-    <fullyQualifiedTypeName name="java.util.Scanner"/>
-    <fullyQualifiedTypeName name="java.lang.System"/>
     <fullyQualifiedTypeName name="com.vti.frontend.Ass_3_Excercise_5.Department"/>
     <fullyQualifiedTypeName name="java.lang.Comparable"/>
     <fullyQualifiedTypeName name="java.util.Comparator"/>
     <fullyQualifiedTypeName name="java.util.jar.Attributes.Name"/>
-    <fullyQualifiedTypeName name="java.lang.Override"/>
     <fullyQualifiedTypeName name="java.lang.Object"/>
     <fullyQualifiedTypeName name="java.lang.Void"/>
     <fullyQualifiedTypeName name="javax.swing.text.html.HTMLDocument.HTMLReader.IsindexAction"/>
@@ -58,6 +46,18 @@
     <fullyQualifiedTypeName name="java.time.LocalDate"/>
     <fullyQualifiedTypeName name="java.security.PublicKey"/>
     <fullyQualifiedTypeName name="com.vti.entity.Group"/>
-    <fullyQualifiedTypeName name="java.lang.String"/>
     <fullyQualifiedTypeName name="com.vti.entity.Account"/>
+    <fullyQualifiedTypeName name="com.vti.entity.INews"/>
+    <fullyQualifiedTypeName name="java.lang.Float"/>
+    <fullyQualifiedTypeName name="com.vti.backend.Excercise1"/>
+    <fullyQualifiedTypeName name="com.vti.entity.News"/>
+    <fullyQualifiedTypeName name="com.vti.entity.Block"/>
+    <fullyQualifiedTypeName name="com.vti.entity.ITuyenSinh"/>
+    <fullyQualifiedTypeName name="com.vti.entity.Contestant"/>
+    <fullyQualifiedTypeName name="com.vti.entity.TuyenSinh"/>
+    <fullyQualifiedTypeName name="java.util.ArrayList"/>
+    <fullyQualifiedTypeName name="java.util.Scanner"/>
+    <fullyQualifiedTypeName name="java.lang.System"/>
+    <fullyQualifiedTypeName name="java.lang.Override"/>
+    <fullyQualifiedTypeName name="java.lang.String"/>
 </qualifiedTypeNameHistroy>
