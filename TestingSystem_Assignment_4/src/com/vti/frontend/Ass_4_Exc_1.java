@@ -4,8 +4,9 @@ import java.time.LocalDate;
 
 import com.vti.entity.Account;
 import com.vti.entity.Department;
+import com.vti.entity.Group;
 
-public class Ass_4_Excercise_1 {
+public class Ass_4_Exc_1 {
 	public static void main(String[] args) {
 //Q1: Tạo constructor cho department: 
 //a) Không có parameters 
@@ -30,7 +31,9 @@ public class Ass_4_Excercise_1 {
 		// Với mỗi username thì sẽ khởi tạo 1 Account (chỉ có thông tin username, các
 		// thông tin còn lại = null).
 		// Khởi tạo 1 Object với mỗi constructor ở trên
-
+		System.out.println("+---Excercise 1---Question 3---+");
+		Group gru1 = new Group();
+		Group gru2 = new Group(1, "Nhóm 1", acc1, LocalDate.now(), null);
 	}
 
 }
