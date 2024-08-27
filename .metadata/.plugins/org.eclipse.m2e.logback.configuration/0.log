@@ -1020,3 +1020,22 @@ Caused by: java.lang.Exception: The resource tree is locked for modifications.
 2024-08-26 19:48:46,240 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\VTI Academy\Railway87_Thang_Project\MavenLesson11\src\test\resources
 2024-08-26 20:44:51,429 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
 2024-08-26 22:38:02,276 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2024-08-27 10:43:48,914 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2024-08-27 10:44:44,029 [Worker-11: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.vti:MavenJDBC:0.0.1-SNAPSHOT @ F:\Railway87_Thang_Project\MavenJDBC\pom.xml.
+2024-08-27 10:44:44,852 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-08-27 10:44:44,852 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\Railway87_Thang_Project\MavenJDBC\src\main\resources
+2024-08-27 10:44:44,854 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-08-27 10:44:44,855 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\Railway87_Thang_Project\MavenJDBC\src\test\resources
+2024-08-27 10:44:45,520 [Worker-11: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.vti:MavenLesson11:0.0.1-SNAPSHOT @ F:\Railway87_Thang_Project\MavenLesson11\pom.xml.
+2024-08-27 10:44:45,917 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-08-27 10:44:45,917 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\Railway87_Thang_Project\MavenLesson11\src\main\resources
+2024-08-27 10:44:45,919 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-08-27 10:44:45,919 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\Railway87_Thang_Project\MavenLesson11\src\test\resources
+2024-08-27 10:44:48,822 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-08-27 10:44:48,823 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\Railway87_Thang_Project\MavenJDBC\src\main\resources
+2024-08-27 10:44:48,824 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-08-27 10:44:48,824 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\Railway87_Thang_Project\MavenJDBC\src\test\resources
+2024-08-27 10:44:49,137 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-08-27 10:44:49,138 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\Railway87_Thang_Project\MavenLesson11\src\main\resources
+2024-08-27 10:44:49,139 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-08-27 10:44:49,139 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\Railway87_Thang_Project\MavenLesson11\src\test\resources

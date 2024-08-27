@@ -20,7 +20,7 @@ public class Block {
 	}
 
 	public String getSubject() {
-		switch (this.name) {
+		switch (name) {
 		case "A":
 			this.subject = "Toán, Lý, Hoá";
 			break;
