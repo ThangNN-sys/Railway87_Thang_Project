@@ -1018,3 +1018,5 @@ Caused by: java.lang.Exception: The resource tree is locked for modifications.
 2024-08-26 19:48:46,238 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\VTI Academy\Railway87_Thang_Project\MavenLesson11\src\main\resources
 2024-08-26 19:48:46,239 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2024-08-26 19:48:46,240 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\VTI Academy\Railway87_Thang_Project\MavenLesson11\src\test\resources
+2024-08-26 20:44:51,429 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2024-08-26 22:38:02,276 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
