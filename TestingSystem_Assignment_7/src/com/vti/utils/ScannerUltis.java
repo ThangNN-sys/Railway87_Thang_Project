@@ -34,7 +34,7 @@ public class ScannerUltis {
 		}
 	}
 
-	public static Float inputFloat(String mes) {
+	public static Float inputFloat() {
 		while (true) {
 			try {
 				return Float.parseFloat(sc.next());

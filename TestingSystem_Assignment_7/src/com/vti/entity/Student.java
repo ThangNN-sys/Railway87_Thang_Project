@@ -10,7 +10,7 @@ public class Student {
 
 	public Student() {
 		super();
-		this.id = ++COUNT;
+		this.id = setCOUNT(getCOUNT() + 1);
 		System.out.println("Nhập vào tên SV:");
 		this.name = ScannerUltis.inputString();
 	}
@@ -19,4 +19,14 @@ public class Student {
 	public String toString() {
 		return "Studen [id= " + id + ", name= " + name + ", Collect= " + collect + "]";
 	}
+
+	public static int getCOUNT() {
+		return COUNT;
+	}
+
+	public static int setCOUNT(int COUNT) {
+		COUNT = COUNT;
+		return COUNT;
+	}
+
 }
