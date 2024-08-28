@@ -3,7 +3,7 @@ package com.vti.entity.exercise1;
 import java.time.LocalDate;
 import java.util.Arrays;
 
-import com.vti.utils.ScannerUtils;
+import com.vti.ultis.ScannerUtils;
 
 public class Group {
 

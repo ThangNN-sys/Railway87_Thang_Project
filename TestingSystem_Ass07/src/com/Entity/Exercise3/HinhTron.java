@@ -1,4 +1,4 @@
-package Entity.Exercise3;
+package com.Entity.Exercise3;
 
 import com.vti.entity.staticEx1.question8.HinhHoc;
 

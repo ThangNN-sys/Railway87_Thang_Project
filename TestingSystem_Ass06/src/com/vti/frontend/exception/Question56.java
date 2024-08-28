@@ -1,6 +1,6 @@
 package com.vti.frontend.exception;
 
-import com.vti.utils.ScannerUtils;
+import com.vti.ultis.ScannerUtils;
 
 public class Question56 {
 	public static void main(String[] args) {

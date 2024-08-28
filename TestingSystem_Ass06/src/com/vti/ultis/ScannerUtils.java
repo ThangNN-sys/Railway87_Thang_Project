@@ -1,4 +1,4 @@
-package com.vti.utils;
+package com.vti.ultis;
 
 import java.util.Scanner;
 
