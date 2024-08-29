@@ -1,21 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
-    <fullyQualifiedTypeName name="java.sql.Statement"/>
-    <fullyQualifiedTypeName name="java.sql.ResultSet"/>
-    <fullyQualifiedTypeName name="com.vit.entity.Department"/>
-    <fullyQualifiedTypeName name="com.vit.entity.Position"/>
-    <fullyQualifiedTypeName name="com.vit.entity.User"/>
-    <fullyQualifiedTypeName name="com.vit.entity.Gender"/>
-    <fullyQualifiedTypeName name="com.vti.entity.Position"/>
-    <fullyQualifiedTypeName name="javax.swing.GroupLayout.Group"/>
-    <fullyQualifiedTypeName name="com.vti.frontend.Method"/>
-    <fullyQualifiedTypeName name="com.vti.frontend.Ass_3_Excercise_5.Department"/>
-    <fullyQualifiedTypeName name="java.lang.Comparable"/>
-    <fullyQualifiedTypeName name="java.util.Comparator"/>
-    <fullyQualifiedTypeName name="java.util.jar.Attributes.Name"/>
-    <fullyQualifiedTypeName name="java.lang.Object"/>
-    <fullyQualifiedTypeName name="java.lang.Void"/>
-    <fullyQualifiedTypeName name="javax.swing.text.html.HTMLDocument.HTMLReader.IsindexAction"/>
     <fullyQualifiedTypeName name="com.vti.entity.Department"/>
     <fullyQualifiedTypeName name="javax.swing.text.Position"/>
     <fullyQualifiedTypeName name="java.security.PublicKey"/>
@@ -30,7 +14,6 @@
     <fullyQualifiedTypeName name="javax.sound.midi.Soundbank"/>
     <fullyQualifiedTypeName name="com.vti.backend.Excercise1_Q2"/>
     <fullyQualifiedTypeName name="com.vti.entity.Block"/>
-    <fullyQualifiedTypeName name="java.util.ArrayList"/>
     <fullyQualifiedTypeName name="java.util.Random"/>
     <fullyQualifiedTypeName name="com.vti.backend.Excercise2_Q1"/>
     <fullyQualifiedTypeName name="com.vti.entity.Rectange"/>
@@ -50,14 +33,31 @@
     <fullyQualifiedTypeName name="com.vti.entity.Config"/>
     <fullyQualifiedTypeName name="java.lang.Math"/>
     <fullyQualifiedTypeName name="com.vti.entity.HinhHoc"/>
-    <fullyQualifiedTypeName name="java.lang.Override"/>
     <fullyQualifiedTypeName name="java.lang.Exception"/>
-    <fullyQualifiedTypeName name="java.lang.Float"/>
     <fullyQualifiedTypeName name="com.vti.utils.ScannerUltis"/>
     <fullyQualifiedTypeName name="com.vti.entity.HinhChuNhat"/>
     <fullyQualifiedTypeName name="com.vti.entity.HinhTron"/>
     <fullyQualifiedTypeName name="java.time.LocalDate"/>
     <fullyQualifiedTypeName name="java.lang.System"/>
     <fullyQualifiedTypeName name="java.util.Scanner"/>
+    <fullyQualifiedTypeName name="java.io.File"/>
+    <fullyQualifiedTypeName name="java.io.FileOutputStream"/>
+    <fullyQualifiedTypeName name="java.io.Serializable"/>
+    <fullyQualifiedTypeName name="com.vti.form.WriteObject"/>
+    <fullyQualifiedTypeName name="java.io.ObjectOutputStream"/>
+    <fullyQualifiedTypeName name="java.io.IOException"/>
+    <fullyQualifiedTypeName name="java.lang.ClassNotFoundException"/>
+    <fullyQualifiedTypeName name="java.io.FileInputStream"/>
+    <fullyQualifiedTypeName name="java.lang.Object"/>
+    <fullyQualifiedTypeName name="java.io.ObjectInputStream"/>
+    <fullyQualifiedTypeName name="com.vti.entity.WriteObjectVehice"/>
+    <fullyQualifiedTypeName name="java.lang.Comparable"/>
+    <fullyQualifiedTypeName name="java.lang.Float"/>
+    <fullyQualifiedTypeName name="com.vti.entity.CompareStudent"/>
+    <fullyQualifiedTypeName name="java.lang.Override"/>
     <fullyQualifiedTypeName name="java.lang.String"/>
+    <fullyQualifiedTypeName name="java.util.ArrayList"/>
+    <fullyQualifiedTypeName name="com.vti.form.CompareStudent"/>
+    <fullyQualifiedTypeName name="java.util.Collections"/>
+    <fullyQualifiedTypeName name="java.awt.List"/>
 </qualifiedTypeNameHistroy>

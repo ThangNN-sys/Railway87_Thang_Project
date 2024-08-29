@@ -2,6 +2,8 @@
 <section name="Workbench">
 	<section name="MavenProjectWizardLocationPage">
 		<list key="location">
+			<item value="F:\Railway87_Thang_Project\Exam_Maven01\pom.xml"/>
+			<item value="F:\Railway87_Thang_Project"/>
 			<item value="D:\VTI Academy\Railway87_Thang_Project"/>
 			<item value="D:\Eclipse"/>
 			<item value="G:\My Drive\VTI Academy\Eclipse_Project"/>
@@ -30,6 +32,8 @@
 	</section>
 	<section name="Maven2ProjectWizardArchifactPage">
 		<list key="package">
+			<item value="com.vti.testing"/>
+			<item value="com.vti.Exam_Maven_JavaCore"/>
 			<item value="com.vti.frontend"/>
 			<item value="com.vti.MavenJDBC"/>
 			<item value="com.vti.JdbcMaven"/>
@@ -42,6 +46,9 @@
 			<item value="Maven"/>
 		</list>
 		<list key="artifactId">
+			<item value="Exam_Maven"/>
+			<item value="Exam_Maven01"/>
+			<item value="Exam_Maven_JavaCore"/>
 			<item value="MavenLesson11"/>
 			<item value="MavenJDBC"/>
 			<item value="JdbcMaven"/>
