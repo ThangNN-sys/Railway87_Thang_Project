@@ -1955,3 +1955,68 @@ org.eclipse.jdt.core.JavaModelException: TestingSystem_Assignment_02/bin [in Tes
 2024-08-29 17:02:57,426 [Worker-25: Launching Executing install in F__Railway87_Thang_Project_Exam_Maven] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B install
 2024-08-29 17:03:13,662 [Worker-37: Launching Executing clean in F__Railway87_Thang_Project_Exam_Maven] INFO  o.e.m.i.launch.MavenLaunchDelegate - F:\Railway87_Thang_Project\Exam_Maven
 2024-08-29 17:03:13,662 [Worker-37: Launching Executing clean in F__Railway87_Thang_Project_Exam_Maven] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean
+2024-08-29 23:00:19,824 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2024-08-29 23:01:34,462 [Worker-8: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info '/pom.xml' D:\VTI Academy\Railway87_Thang_Project\Exam_Maven01\pom.xml
+2024-08-29 23:01:35,844 [Worker-8: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.vti:Exam_Maven01:0.0.1-SNAPSHOT @ D:\VTI Academy\Railway87_Thang_Project\Exam_Maven01\pom.xml.
+2024-08-29 23:01:36,752 [Worker-8: Creating maven-archetype-quickstart] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Exam_Maven01/src/main/java
+2024-08-29 23:01:36,761 [Worker-8: Creating maven-archetype-quickstart] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Exam_Maven01/src/test/java
+2024-08-29 23:01:36,849 [Worker-8: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 2 sec
+2024-08-29 23:13:23,179 [Worker-36: Launching Executing install in D__VTI Academy_Railway87_Thang_Project_Exam_Maven01] INFO  o.e.m.i.launch.MavenLaunchDelegate - D:\VTI Academy\Railway87_Thang_Project\Exam_Maven01
+2024-08-29 23:13:23,181 [Worker-36: Launching Executing install in D__VTI Academy_Railway87_Thang_Project_Exam_Maven01] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B install
+2024-08-29 23:15:11,207 [Worker-22: Rebuilding] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.vti:Exam_Maven01:0.0.1-SNAPSHOT @ D:\VTI Academy\Railway87_Thang_Project\Exam_Maven01\pom.xml.
+2024-08-29 23:15:11,581 [Worker-22: Rebuilding] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-08-29 23:15:11,582 [Worker-22: Rebuilding] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\VTI Academy\Railway87_Thang_Project\Exam_Maven01\src\main\resources
+2024-08-29 23:15:11,583 [Worker-22: Rebuilding] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-08-29 23:15:11,583 [Worker-22: Rebuilding] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\VTI Academy\Railway87_Thang_Project\Exam_Maven01\src\test\resources
+2024-08-29 23:15:11,842 [Worker-22: Rebuilding] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.vti:Exam_Maven:0.0.1-SNAPSHOT @ D:\VTI Academy\Railway87_Thang_Project\Exam_Maven\pom.xml.
+2024-08-29 23:15:11,965 [Worker-22: Rebuilding] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-08-29 23:15:11,966 [Worker-22: Rebuilding] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\VTI Academy\Railway87_Thang_Project\Exam_Maven\src\main\resources
+2024-08-29 23:15:11,967 [Worker-22: Rebuilding] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-08-29 23:15:11,967 [Worker-22: Rebuilding] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\VTI Academy\Railway87_Thang_Project\Exam_Maven\src\test\resources
+2024-08-29 23:15:12,025 [Worker-22: Rebuilding] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-08-29 23:15:12,025 [Worker-22: Rebuilding] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\VTI Academy\Railway87_Thang_Project\Exam_Maven01\src\main\resources
+2024-08-29 23:15:12,027 [Worker-22: Rebuilding] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-08-29 23:15:12,027 [Worker-22: Rebuilding] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\VTI Academy\Railway87_Thang_Project\Exam_Maven01\src\test\resources
+2024-08-29 23:15:12,166 [Worker-22: Rebuilding] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.vti:MavenLesson11:0.0.1-SNAPSHOT @ D:\VTI Academy\Railway87_Thang_Project\MavenLesson11\pom.xml.
+2024-08-29 23:15:12,319 [Worker-22: Rebuilding] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-08-29 23:15:12,320 [Worker-22: Rebuilding] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\VTI Academy\Railway87_Thang_Project\MavenLesson11\src\main\resources
+2024-08-29 23:15:12,321 [Worker-22: Rebuilding] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-08-29 23:15:12,321 [Worker-22: Rebuilding] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\VTI Academy\Railway87_Thang_Project\MavenLesson11\src\test\resources
+2024-08-29 23:15:13,645 [Worker-22: Rebuilding] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.vti:TestingSystem_Assignment_10:0.0.1-SNAPSHOT @ D:\VTI Academy\Railway87_Thang_Project\TestingSystem_Assignment_10\pom.xml.
+2024-08-29 23:15:13,754 [Worker-22: Rebuilding] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-08-29 23:15:13,755 [Worker-22: Rebuilding] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\VTI Academy\Railway87_Thang_Project\TestingSystem_Assignment_10\src\main\resources
+2024-08-29 23:15:13,756 [Worker-22: Rebuilding] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-08-29 23:15:13,756 [Worker-22: Rebuilding] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\VTI Academy\Railway87_Thang_Project\TestingSystem_Assignment_10\src\test\resources
+2024-08-29 23:15:13,891 [Worker-22: Rebuilding] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.vti:TestingSystem_Assignment_11_Exercise_1:0.0.1-SNAPSHOT @ D:\VTI Academy\Railway87_Thang_Project\TestingSystem_Assignment_11_Exercise_1\pom.xml.
+2024-08-29 23:15:14,003 [Worker-22: Rebuilding] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-08-29 23:15:14,004 [Worker-22: Rebuilding] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\VTI Academy\Railway87_Thang_Project\TestingSystem_Assignment_11_Exercise_1\src\main\resources
+2024-08-29 23:15:14,005 [Worker-22: Rebuilding] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-08-29 23:15:14,005 [Worker-22: Rebuilding] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\VTI Academy\Railway87_Thang_Project\TestingSystem_Assignment_11_Exercise_1\src\test\resources
+2024-08-29 23:15:14,131 [Worker-22: Rebuilding] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.vti:TestingSystem_Assignment_11_Exercise_2:0.0.1-SNAPSHOT @ D:\VTI Academy\Railway87_Thang_Project\TestingSystem_Assignment_11_Exercise_2\pom.xml.
+2024-08-29 23:15:14,288 [Worker-22: Rebuilding] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-08-29 23:15:14,288 [Worker-22: Rebuilding] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\VTI Academy\Railway87_Thang_Project\TestingSystem_Assignment_11_Exercise_2\src\main\resources
+2024-08-29 23:15:14,290 [Worker-22: Rebuilding] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-08-29 23:15:14,290 [Worker-22: Rebuilding] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\VTI Academy\Railway87_Thang_Project\TestingSystem_Assignment_11_Exercise_2\src\test\resources
+2024-08-29 23:15:14,448 [Worker-22: Rebuilding] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.vti:TestingSystem_Assignment_11:0.0.1-SNAPSHOT @ D:\VTI Academy\Railway87_Thang_Project\TestingSystem_Assignment_11_Exercise_3_4\pom.xml.
+2024-08-29 23:15:14,547 [Worker-22: Rebuilding] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-08-29 23:15:14,548 [Worker-22: Rebuilding] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\VTI Academy\Railway87_Thang_Project\TestingSystem_Assignment_11_Exercise_3_4\src\main\resources
+2024-08-29 23:15:14,550 [Worker-22: Rebuilding] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-08-29 23:15:14,550 [Worker-22: Rebuilding] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\VTI Academy\Railway87_Thang_Project\TestingSystem_Assignment_11_Exercise_3_4\src\test\resources
+2024-08-29 23:15:14,614 [Worker-22: Rebuilding] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.vti:TestingSystem_Assignment_10:0.0.1-SNAPSHOT @ D:\VTI Academy\Railway87_Thang_Project\TestingSystem_Ass10\target\classes\META-INF\maven\com.vti\TestingSystem_Assignment_10\pom.xml.
+2024-08-29 23:15:14,668 [Worker-22: Rebuilding] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-08-29 23:15:14,668 [Worker-22: Rebuilding] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\VTI Academy\Railway87_Thang_Project\TestingSystem_Ass10\target\classes\META-INF\maven\com.vti\TestingSystem_Assignment_10\src\main\resources
+2024-08-29 23:15:14,669 [Worker-22: Rebuilding] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-08-29 23:15:14,669 [Worker-22: Rebuilding] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\VTI Academy\Railway87_Thang_Project\TestingSystem_Ass10\target\classes\META-INF\maven\com.vti\TestingSystem_Assignment_10\src\test\resources
+2024-08-29 23:16:01,988 [Worker-22: Launching Executing install in D__VTI Academy_Railway87_Thang_Project_Exam_Maven01] INFO  o.e.m.i.launch.MavenLaunchDelegate - D:\VTI Academy\Railway87_Thang_Project\Exam_Maven01
+2024-08-29 23:16:01,988 [Worker-22: Launching Executing install in D__VTI Academy_Railway87_Thang_Project_Exam_Maven01] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B install
+2024-08-29 23:16:19,952 [Worker-35: Launching Executing clean in D__VTI Academy_Railway87_Thang_Project_Exam_Maven01] INFO  o.e.m.i.launch.MavenLaunchDelegate - D:\VTI Academy\Railway87_Thang_Project\Exam_Maven01
+2024-08-29 23:16:19,952 [Worker-35: Launching Executing clean in D__VTI Academy_Railway87_Thang_Project_Exam_Maven01] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean
+2024-08-29 23:36:47,511 [Worker-42: Launching Program (7)] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.vti:Exam_Maven01:0.0.1-SNAPSHOT @ D:\VTI Academy\Railway87_Thang_Project\Exam_Maven01\pom.xml.
+2024-08-29 23:36:47,599 [Worker-42: Launching Program (7)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-08-29 23:36:47,600 [Worker-42: Launching Program (7)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\VTI Academy\Railway87_Thang_Project\Exam_Maven01\src\main\resources
+2024-08-29 23:36:47,601 [Worker-42: Launching Program (7)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-08-29 23:36:47,601 [Worker-42: Launching Program (7)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\VTI Academy\Railway87_Thang_Project\Exam_Maven01\src\test\resources
+2024-08-30 00:20:26,164 [Worker-60: Launching Program (7)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-08-30 00:20:26,164 [Worker-60: Launching Program (7)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\VTI Academy\Railway87_Thang_Project\Exam_Maven01\src\main\resources
+2024-08-30 00:20:26,164 [Worker-60: Launching Program (7)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-08-30 00:20:26,165 [Worker-60: Launching Program (7)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\VTI Academy\Railway87_Thang_Project\Exam_Maven01\src\test\resources
