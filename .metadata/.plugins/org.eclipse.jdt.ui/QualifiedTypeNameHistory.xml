@@ -1,13 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
-    <fullyQualifiedTypeName name="com.vti.entity.TuyenSinh"/>
-    <fullyQualifiedTypeName name="javax.sound.midi.Soundbank"/>
-    <fullyQualifiedTypeName name="com.vti.backend.Excercise1_Q2"/>
-    <fullyQualifiedTypeName name="com.vti.entity.Block"/>
-    <fullyQualifiedTypeName name="java.util.Random"/>
-    <fullyQualifiedTypeName name="com.vti.backend.Excercise2_Q1"/>
-    <fullyQualifiedTypeName name="com.vti.entity.Rectange"/>
-    <fullyQualifiedTypeName name="com.vti.entity.Square"/>
     <fullyQualifiedTypeName name="com.vti.backend.Excercise2_Q3"/>
     <fullyQualifiedTypeName name="com.vti.backend.Excercise1_Q1"/>
     <fullyQualifiedTypeName name="java.lang.Integer"/>
@@ -47,17 +39,25 @@
     <fullyQualifiedTypeName name="com.vti.form.CompareStudent"/>
     <fullyQualifiedTypeName name="java.util.Collections"/>
     <fullyQualifiedTypeName name="java.awt.List"/>
-    <fullyQualifiedTypeName name="java.util.Properties"/>
     <fullyQualifiedTypeName name="java.io.FileInputStream"/>
     <fullyQualifiedTypeName name="java.io.File"/>
-    <fullyQualifiedTypeName name="java.lang.String"/>
     <fullyQualifiedTypeName name="java.sql.SQLException"/>
     <fullyQualifiedTypeName name="com.sun.jndi.ldap.Connection"/>
-    <fullyQualifiedTypeName name="java.lang.Class"/>
-    <fullyQualifiedTypeName name="java.sql.DriverManager"/>
     <fullyQualifiedTypeName name="java.rmi.ConnectIOException"/>
-    <fullyQualifiedTypeName name="com.vti.ultis.JdbcConnection"/>
-    <fullyQualifiedTypeName name="com.sun.jdi.connect.spi.Connection"/>
-    <fullyQualifiedTypeName name="java.sql.Connection"/>
     <fullyQualifiedTypeName name="com.mysql.cj.xdevapi.PreparableStatement"/>
+    <fullyQualifiedTypeName name="java.sql.Connection"/>
+    <fullyQualifiedTypeName name="java.lang.Class"/>
+    <fullyQualifiedTypeName name="com.sun.jdi.connect.spi.Connection"/>
+    <fullyQualifiedTypeName name="java.sql.DriverManager"/>
+    <fullyQualifiedTypeName name="com.mysql.cj.xdevapi.Statement"/>
+    <fullyQualifiedTypeName name="javax.naming.spi.ResolveResult"/>
+    <fullyQualifiedTypeName name="com.vti.backend.Exercise1"/>
+    <fullyQualifiedTypeName name="java.util.Properties"/>
+    <fullyQualifiedTypeName name="com.vti.ultis.JdbcUtils"/>
+    <fullyQualifiedTypeName name="com.vti.ultis.properties.DatabaseProperties"/>
+    <fullyQualifiedTypeName name="com.vti.ultis.JdbcConnection"/>
+    <fullyQualifiedTypeName name="java.sql.Statement"/>
+    <fullyQualifiedTypeName name="java.sql.ResultSet"/>
+    <fullyQualifiedTypeName name="java.sql.PreparedStatement"/>
+    <fullyQualifiedTypeName name="java.lang.String"/>
 </qualifiedTypeNameHistroy>

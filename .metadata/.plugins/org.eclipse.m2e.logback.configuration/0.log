@@ -2020,3 +2020,64 @@ org.eclipse.jdt.core.JavaModelException: TestingSystem_Assignment_02/bin [in Tes
 2024-08-30 00:20:26,164 [Worker-60: Launching Program (7)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\VTI Academy\Railway87_Thang_Project\Exam_Maven01\src\main\resources
 2024-08-30 00:20:26,164 [Worker-60: Launching Program (7)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2024-08-30 00:20:26,165 [Worker-60: Launching Program (7)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\VTI Academy\Railway87_Thang_Project\Exam_Maven01\src\test\resources
+2024-08-30 09:20:43,244 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2024-08-30 09:24:30,500 [Worker-16: Updating Maven Dependencies] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.vti:Exam_Maven:0.0.1-SNAPSHOT @ F:\Railway87_Thang_Project\Exam_Maven\pom.xml.
+2024-08-30 09:24:35,878 [Worker-14: Updating Maven Dependencies] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.vti:TestingSystem_Assignment_10:0.0.1-SNAPSHOT @ F:\Railway87_Thang_Project\TestingSystem_Assignment_10\pom.xml.
+2024-08-30 09:24:38,323 [Worker-19: Updating Maven Dependencies] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.vti:TestingSystem_Assignment_11_Exercise_1:0.0.1-SNAPSHOT @ F:\Railway87_Thang_Project\TestingSystem_Assignment_11_Exercise_1\pom.xml.
+2024-08-30 09:37:34,426 [Worker-45: Launching Program (6)] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.vti:Exam_Maven01:0.0.1-SNAPSHOT @ F:\Railway87_Thang_Project\Exam_Maven01\pom.xml.
+2024-08-30 09:37:34,844 [Worker-45: Launching Program (6)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-08-30 09:37:34,844 [Worker-45: Launching Program (6)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\Railway87_Thang_Project\Exam_Maven01\src\main\resources
+2024-08-30 09:37:34,845 [Worker-45: Launching Program (6)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-08-30 09:37:34,846 [Worker-45: Launching Program (6)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\Railway87_Thang_Project\Exam_Maven01\src\test\resources
+2024-08-30 09:45:52,635 [Worker-47: Launching CreateData (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-08-30 09:45:52,636 [Worker-47: Launching CreateData (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\Railway87_Thang_Project\Exam_Maven01\src\main\resources
+2024-08-30 09:45:52,637 [Worker-47: Launching CreateData (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-08-30 09:45:52,637 [Worker-47: Launching CreateData (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\Railway87_Thang_Project\Exam_Maven01\src\test\resources
+2024-08-30 09:46:14,927 [Worker-43: Launching CreateData (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-08-30 09:46:14,928 [Worker-43: Launching CreateData (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\Railway87_Thang_Project\Exam_Maven01\src\main\resources
+2024-08-30 09:46:14,929 [Worker-43: Launching CreateData (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-08-30 09:46:14,929 [Worker-43: Launching CreateData (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\Railway87_Thang_Project\Exam_Maven01\src\test\resources
+2024-08-30 09:47:06,920 [Worker-44: Launching CreateData (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-08-30 09:47:06,920 [Worker-44: Launching CreateData (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\Railway87_Thang_Project\Exam_Maven01\src\main\resources
+2024-08-30 09:47:06,921 [Worker-44: Launching CreateData (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-08-30 09:47:06,921 [Worker-44: Launching CreateData (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\Railway87_Thang_Project\Exam_Maven01\src\test\resources
+2024-08-30 09:49:20,622 [Worker-45: Launching CreateData (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-08-30 09:49:20,622 [Worker-45: Launching CreateData (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\Railway87_Thang_Project\Exam_Maven01\src\main\resources
+2024-08-30 09:49:20,623 [Worker-45: Launching CreateData (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-08-30 09:49:20,623 [Worker-45: Launching CreateData (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\Railway87_Thang_Project\Exam_Maven01\src\test\resources
+2024-08-30 10:48:48,889 [Worker-71: Launching Demo] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-08-30 10:48:48,890 [Worker-71: Launching Demo] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\Railway87_Thang_Project\Exam_Maven01\src\main\resources
+2024-08-30 10:48:48,890 [Worker-71: Launching Demo] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-08-30 10:48:48,891 [Worker-71: Launching Demo] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\Railway87_Thang_Project\Exam_Maven01\src\test\resources
+2024-08-30 11:18:38,336 [Worker-67: Launching Demo] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-08-30 11:18:38,336 [Worker-67: Launching Demo] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\Railway87_Thang_Project\Exam_Maven01\src\main\resources
+2024-08-30 11:18:38,337 [Worker-67: Launching Demo] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-08-30 11:18:38,338 [Worker-67: Launching Demo] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\Railway87_Thang_Project\Exam_Maven01\src\test\resources
+2024-08-30 11:22:47,088 [Worker-67: Launching Demo] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-08-30 11:22:47,088 [Worker-67: Launching Demo] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\Railway87_Thang_Project\Exam_Maven01\src\main\resources
+2024-08-30 11:22:47,089 [Worker-67: Launching Demo] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-08-30 11:22:47,089 [Worker-67: Launching Demo] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\Railway87_Thang_Project\Exam_Maven01\src\test\resources
+2024-08-30 11:23:34,741 [Worker-74: Launching Demo] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-08-30 11:23:34,741 [Worker-74: Launching Demo] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\Railway87_Thang_Project\Exam_Maven01\src\main\resources
+2024-08-30 11:23:34,742 [Worker-74: Launching Demo] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-08-30 11:23:34,742 [Worker-74: Launching Demo] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\Railway87_Thang_Project\Exam_Maven01\src\test\resources
+2024-08-30 11:25:21,805 [Worker-77: Launching Demo] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-08-30 11:25:21,805 [Worker-77: Launching Demo] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\Railway87_Thang_Project\Exam_Maven01\src\main\resources
+2024-08-30 11:25:21,806 [Worker-77: Launching Demo] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-08-30 11:25:21,806 [Worker-77: Launching Demo] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\Railway87_Thang_Project\Exam_Maven01\src\test\resources
+2024-08-30 11:25:54,417 [Worker-75: Launching Demo] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-08-30 11:25:54,417 [Worker-75: Launching Demo] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\Railway87_Thang_Project\Exam_Maven01\src\main\resources
+2024-08-30 11:25:54,418 [Worker-75: Launching Demo] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-08-30 11:25:54,418 [Worker-75: Launching Demo] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\Railway87_Thang_Project\Exam_Maven01\src\test\resources
+2024-08-30 11:26:27,341 [Worker-75: Launching Demo] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-08-30 11:26:27,341 [Worker-75: Launching Demo] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\Railway87_Thang_Project\Exam_Maven01\src\main\resources
+2024-08-30 11:26:27,341 [Worker-75: Launching Demo] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-08-30 11:26:27,342 [Worker-75: Launching Demo] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\Railway87_Thang_Project\Exam_Maven01\src\test\resources
+2024-08-30 13:56:02,212 [Worker-108: Launching Demo] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-08-30 13:56:02,213 [Worker-108: Launching Demo] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\Railway87_Thang_Project\Exam_Maven01\src\main\resources
+2024-08-30 13:56:02,214 [Worker-108: Launching Demo] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-08-30 13:56:02,214 [Worker-108: Launching Demo] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\Railway87_Thang_Project\Exam_Maven01\src\test\resources
+2024-08-30 14:08:41,633 [Worker-113: Launching Demo] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-08-30 14:08:41,633 [Worker-113: Launching Demo] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\Railway87_Thang_Project\Exam_Maven01\src\main\resources
+2024-08-30 14:08:41,635 [Worker-113: Launching Demo] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-08-30 14:08:41,636 [Worker-113: Launching Demo] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\Railway87_Thang_Project\Exam_Maven01\src\test\resources

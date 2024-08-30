@@ -17,7 +17,7 @@ public class Program {
 		try {
 			myConn = DriverManager.getConnection(url, username, password);
 			if (myConn != null) {
-				System.out.println("Đã được kết nối");
+				System.out.println("Kết nối thành công");
 				Statement st = myConn.createStatement();
 				String sql = "select * from users";
 				ResultSet rs = st.executeQuery(sql);
@@ -28,7 +28,7 @@ public class Program {
 				}
 
 			} else {
-				System.out.println("Không kết nối được");
+				System.out.println("Kết nối không thành công");
 			}
 		} catch (SQLException e) {
 			// TODO Auto-generated catch block
