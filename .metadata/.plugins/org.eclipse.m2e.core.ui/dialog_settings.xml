@@ -33,6 +33,7 @@
 	</section>
 	<section name="Maven2ProjectWizardArchifactPage">
 		<list key="package">
+			<item value="com.vti.main"/>
 			<item value="com.vti.testing"/>
 			<item value="com.vti.Exam_Maven_JavaCore"/>
 			<item value="com.vti.frontend"/>
@@ -47,6 +48,7 @@
 			<item value="Maven"/>
 		</list>
 		<list key="artifactId">
+			<item value="Thai"/>
 			<item value="Exam_Maven01"/>
 			<item value="Exam_Maven"/>
 			<item value="Exam_Maven_JavaCore"/>
